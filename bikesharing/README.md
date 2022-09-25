@@ -6,21 +6,26 @@ The purpose of this challenge was to create visualizations in Tableau to present
 
 ## Results
 The "Checkout times for Users" visualization shows that most number of bike rides are 5 to 10 minutes long.
+<img width="1001" alt="Checkout Times by Users" src="https://user-images.githubusercontent.com/107584891/192168947-0ff8676c-9463-423d-8ab1-a7e291104b72.png">
 
 
 The "Checkout times for Users" visualization shows that there are more  Male riders than any other genders.
 
 
 The "Trips by Weekday for each Hour" visualization shows that Thursday between 5pm to 6pm is the most popular time. There are other days like Monday, Tuesday between 5pm to 6pm with descent number of riders who took the trip.
+<img width="1009" alt="Trips by Weekday by Each Hour" src="https://user-images.githubusercontent.com/107584891/192168959-72eb2080-f0f8-47f3-a76f-9f5252567c07.png">
 
 
 The "User Trips by Gender by Weekday" visualization shows that the Male Riders are more than Female and Unknown riders.
 
+<img width="1008" alt="User Trips by gender by Weekday" src="https://user-images.githubusercontent.com/107584891/192168966-9500677e-a66d-44e6-937e-2173b3c5318f.png">
 
 
 The "User Trips by Gender by weekday between Customer and Subscriber" visualization shows that Subscriber riders are more that Customer riders category.
+<img width="1008" alt="User Trips by gender by Weekday" src="https://user-images.githubusercontent.com/107584891/192168996-e71ace32-e82f-4069-a7d7-aaa582f01633.png">
 
 The "Gender Breakdown" visualization shows that there are more Male riders than other genders.
+<img width="982" alt="Gender Breakdown" src="https://user-images.githubusercontent.com/107584891/192168987-acd22b17-957a-4e1a-8778-384e72eb6991.png">
 
 
 

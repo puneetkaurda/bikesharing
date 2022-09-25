@@ -42,8 +42,10 @@ I would like to conclude the "LOCATION" plays a big role in growing the bike bus
 
 The "Top Starting Locations" visualization shows that "12th Ave and W40th street" is most famous starting Location.
 
+<img width="990" alt="Top Starting Locations" src="https://user-images.githubusercontent.com/107584891/192169064-5cac996d-e8e4-4901-8107-1022611b5fd8.png">
 
 The "Top Ending Locations" visualization shows that "Pershing Square North" is the most famous ending Location.
 
+<img width="995" alt="Top Ending Locations" src="https://user-images.githubusercontent.com/107584891/192169068-66dc4b54-a9c7-42d9-a6cd-d9159a61c729.png">
 
 

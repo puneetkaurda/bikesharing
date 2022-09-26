@@ -9,16 +9,18 @@ The "Checkout times for Users" visualization shows that most number of bike ride
 <img width="1001" alt="Checkout Times by Users" src="https://user-images.githubusercontent.com/107584891/192168947-0ff8676c-9463-423d-8ab1-a7e291104b72.png">
 
 
-The "Checkout times for Users" visualization shows that there are more  Male riders than any other genders.
+The "Checkout times for Genders" visualization shows that there are more  Male riders than any other genders.
+<img width="983" alt="Checkout Times by Gender" src="https://user-images.githubusercontent.com/107584891/192187469-53b439c1-aed4-4d32-a81c-6e2bbd2b822c.png">
 
 
 The "Trips by Weekday for each Hour" visualization shows that Thursday between 5pm to 6pm is the most popular time. There are other days like Monday, Tuesday between 5pm to 6pm with descent number of riders who took the trip.
 <img width="1009" alt="Trips by Weekday by Each Hour" src="https://user-images.githubusercontent.com/107584891/192168959-72eb2080-f0f8-47f3-a76f-9f5252567c07.png">
 
 
-The "User Trips by Gender by Weekday" visualization shows that the Male Riders are more than Female and Unknown riders.
+The "Trips by Gender (Weekday per Hour)" visualization shows that the Male Riders are more than Female and Unknown riders.
 
-<img width="1008" alt="User Trips by gender by Weekday" src="https://user-images.githubusercontent.com/107584891/192168966-9500677e-a66d-44e6-937e-2173b3c5318f.png">
+<img width="983" alt="Trips by Gender ( Weekday per Hour)" src="https://user-images.githubusercontent.com/107584891/192187853-9ce31198-8256-41d1-9fb3-07f5b939c89c.png">
+
 
 
 The "User Trips by Gender by weekday between Customer and Subscriber" visualization shows that Subscriber riders are more that Customer riders category.
@@ -38,7 +40,7 @@ Citibike NYC showed there is a potential to expand bike sharing services to Des 
 
 According to the Des Moines's tourism website, there are three popular trails that would make ideal bike riding places for not only residents but tourists as well. Each trail is about a 6-9 mile ride which could attract bike enthusiasts. Lastly, Des Moines scenic outdoors, history, and culture could also attract ridership as they are eager to explore and most importantly there is is good number of trails which are mostly paved and is suitable for all skill levels. 
 If I were to pursue additional lines of inquiry for analysis and visualization, given the data provided, I would explore:
-I would like to conclude the "LOCATION" plays a big role in growing the bike business.The trip starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours. Here is an example from NYC citibike data, some locations are popular more than many others.
+ the "LOCATION" which plays a big role in growing the bike business. The trip starting and ending locations in NYC is an example of popularity more than many others.
 
 The "Top Starting Locations" visualization shows that "12th Ave and W40th street" is most famous starting Location.
 

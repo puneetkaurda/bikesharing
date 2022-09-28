@@ -1,6 +1,6 @@
 # Bikesharing
 Created visualizations using Tableau
-[link to dashboard](https://public.tableau.com/shared/85RSJYHS9?:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/app/profile/puneet.kaur5785/viz/NycCitiBikeAnalysis/NYCCitiBikeAnalysis)
 ## Overview of the analysis:
 The purpose of this challenge was to create visualizations in Tableau to present to investors regarding a bikesharing business. These visualizations show the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week, and the number of bike trips for each type of user and gender for each day of the week.
 
